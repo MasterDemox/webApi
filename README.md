@@ -7,12 +7,12 @@
 
 ## Загрузка исходного кода
  ```
- git init
- git add README.md
- git commit -m "first commit"
- git brance -M main
- git remote add origin https://github.com/MasterDemox/webApi.git
- git push - u origin main
+ 1. git init
+ 2. git add README.md
+ 3. git commit -m "first commit"
+ 4. git brance -M main
+ 5. git remote add origin https://github.com/MasterDemox/webApi.git
+ 6. git push - u origin main
 ```
 ## Описание возможности Git Hub
 GitHub — это «социальная сеть для разработчиков». Участникам, кроме непосредственного хранения кода, своих проектов, можно общаться, комментировать изменения друг друга, отслеживать новости знакомых. У программистов есть возможность объединять репозитории и выводить вклад участника в виде дерева.
